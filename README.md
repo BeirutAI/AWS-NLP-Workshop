@@ -6,7 +6,7 @@ In this workshop, we will introduce AI, dive into its lifecycle, and look at som
 
 1. Filled: https://colab.research.google.com/drive/1wqJiA5EZGQp_LyIF1-fLwNjuOQ3H-bgS?usp=sharing
 
-2. Blanks: 
+2. Blanks: https://colab.research.google.com/drive/1y-h-q-tPtDVCylgaYGaFNjK2DsvN507X?usp=sharing
 
 ---
 
